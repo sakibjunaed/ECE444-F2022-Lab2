@@ -4,6 +4,7 @@ Activity 1
 
 <img width="730" alt="Screen Shot 2022-09-21 at 5 26 06 PM" src="https://user-images.githubusercontent.com/41162261/192866526-05b58166-0403-44c9-8705-a6dbe4701591.png">
 
+Activity 2
 
 Example 2-1 Commit:
 
