@@ -40,13 +40,13 @@ Step 2 commit:
 
 Email page screenshots
 
-<img width="1440" alt="Screen Shot 2022-09-28 at 2 13 10 PM" src="https://user-images.githubusercontent.com/41162261/192867564-999ba58b-9a05-4aff-b6da-71fdcff4d8df.png">
+<img width="1385" alt="Screen Shot 2022-09-28 at 2 13 10 PM" src="https://user-images.githubusercontent.com/41162261/192870595-72c6bfff-9e71-4df4-9a79-80c8c99d732a.png">
 
-<img width="1440" alt="Screen Shot 2022-09-28 at 2 49 59 PM" src="https://user-images.githubusercontent.com/41162261/192867619-29db6ee4-8dbb-4fa8-aab5-e7396da66470.png">
+<img width="1386" alt="Screen Shot 2022-09-28 at 2 49 59 PM" src="https://user-images.githubusercontent.com/41162261/192870624-6838a29e-98ed-4800-b5d6-91854157044f.png">
 
-<img width="1440" alt="Screen Shot 2022-09-28 at 2 51 15 PM" src="https://user-images.githubusercontent.com/41162261/192867674-e96ee6bc-f811-4087-82cb-2c8b6bee7a2f.png">
+<img width="1388" alt="Screen Shot 2022-09-28 at 2 51 15 PM" src="https://user-images.githubusercontent.com/41162261/192870665-66cb2a94-d267-46c9-943f-4414477d9ad3.png">
 
-<img width="1440" alt="Screen Shot 2022-09-28 at 2 51 44 PM" src="https://user-images.githubusercontent.com/41162261/192867706-b91a180e-c885-49f8-a070-ee25647433fd.png">
+<img width="1391" alt="Screen Shot 2022-09-28 at 2 51 44 PM" src="https://user-images.githubusercontent.com/41162261/192870706-a86bfedb-ea76-4096-9b73-5baa3b6a4ed5.png">
 
 
 
