@@ -16,7 +16,7 @@ Example 2-2 Commit:
 
 Hello world page with my name:
 
-<img width="1440" alt="Screen Shot 2022-09-21 at 5 47 23 PM" src="https://user-images.githubusercontent.com/41162261/191616829-edac88af-01b5-4bda-a83d-ba21abac064f.png">
+<img width="1391" alt="Screen Shot 2022-09-21 at 5 47 23 PM" src="https://user-images.githubusercontent.com/41162261/192871277-57925637-4f9d-492d-ad9d-0a73236a4e0e.png">
 
 Activity 3
 
@@ -26,7 +26,7 @@ Activity 3 commit:
 
 Activity screenshot:
 
-<img width="1440" alt="Screen Shot 2022-09-28 at 1 28 32 PM" src="https://user-images.githubusercontent.com/41162261/192852078-0ed10b49-f00d-4670-8c0e-ae7555e4814d.png">
+<img width="1388" alt="Screen Shot 2022-09-28 at 1 28 32 PM" src="https://user-images.githubusercontent.com/41162261/192871337-f3dbd794-8299-4d36-89c9-34ba5fa40287.png">
 
 Activity 4
 
